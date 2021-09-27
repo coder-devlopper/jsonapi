@@ -1,14 +1,14 @@
 [{
         "Name":"Engagement",
-        "Voir_tous_les_enreg":0,
+        "Voir_tous_les_enreg":,
         "Voir_mes_enreg":1,
-        "Consulter":0,
-        "Ajouter":0,
+        "Consulter":,
+        "Ajouter":,
         "Modifier":1,
-        "Supprimer":0,
-        "Imprimer":0,
-        "Transferer":0,
-        "Telecharger":1,
+        "Supprimer":,
+        "Imprimer":,
+        "Transferer":,
+        "Telecharger":,
         "Verrouiller":1
 
         
